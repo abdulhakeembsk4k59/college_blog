@@ -18,13 +18,13 @@ and make sure it is up and running
 1. open this url : http://localhost/phpmyadmin
 
 #### then it will showup like this 
-<img src="https://i.ibb.co/S3yRxKP/image.png">
+ <img src="https://i.ibb.co/S3yRxKP/image.png"/>
 a. Click on new and create a database with the name `blog`
-<img src="https://i.ibb.co/CbB8n6k/image.png">
+ <img src="https://i.ibb.co/CbB8n6k/image.png"/>
 b. After creating click on that created database (blog) and create a table named data with 3 columns
-<img src="https://i.ibb.co/Mydt2r7/image.png">
+ <img src="https://i.ibb.co/Mydt2r7/image.png"/>
 c. Click on sql tab and run this query
-<img src="https://i.ibb.co/JpkLvJc/image.png">
+ <img src="https://i.ibb.co/JpkLvJc/image.png"/>
 
 ###
 2. Now open this url : http://localhost/phpblog-main/
